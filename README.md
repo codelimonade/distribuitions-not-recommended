@@ -1,2 +1,3 @@
-# distribuitions-not-recommended
-Distribuições não recomendadas.
+# Distribuições não recomendadas
+
+- EndearvorOS
